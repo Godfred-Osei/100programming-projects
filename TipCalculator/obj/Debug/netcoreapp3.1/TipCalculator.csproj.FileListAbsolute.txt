@@ -1,0 +1,13 @@
+C:\Users\GODFRED\source\repos\TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.exe
+C:\Users\GODFRED\source\repos\TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.deps.json
+C:\Users\GODFRED\source\repos\TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.json
+C:\Users\GODFRED\source\repos\TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.runtimeconfig.dev.json
+C:\Users\GODFRED\source\repos\TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.dll
+C:\Users\GODFRED\source\repos\TipCalculator\TipCalculator\bin\Debug\netcoreapp3.1\TipCalculator.pdb
+C:\Users\GODFRED\source\repos\TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csprojAssemblyReference.cache
+C:\Users\GODFRED\source\repos\TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfoInputs.cache
+C:\Users\GODFRED\source\repos\TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.AssemblyInfo.cs
+C:\Users\GODFRED\source\repos\TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Users\GODFRED\source\repos\TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.dll
+C:\Users\GODFRED\source\repos\TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.pdb
+C:\Users\GODFRED\source\repos\TipCalculator\TipCalculator\obj\Debug\netcoreapp3.1\TipCalculator.genruntimeconfig.cache

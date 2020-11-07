@@ -8,7 +8,7 @@ namespace TipCalculator
         {
             int numberOfFriends;
             double amountOfBill, percentageTip, actualTip, amountPerEach;
-            Console.WriteLine("Welcome To Bill Calculator");
+            Console.WriteLine("Welcome To Bill  Temp Calculator");
             Console.WriteLine("Enter the total bill:");
             amountOfBill  = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Enter the number of friends to split the bill:");
